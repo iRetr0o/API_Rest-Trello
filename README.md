@@ -1,2 +1,2 @@
 # API_Rest-Trello
-Pruebas del API Rest de Trello
+Este Repositorio contiene las pruebas que hice al probar el API Rest de Trello
