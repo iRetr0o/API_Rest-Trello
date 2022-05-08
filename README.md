@@ -6,7 +6,7 @@ Este Repositorio contiene las pruebas que hice al probar el API Rest de Trello
     - Una vez estando ahí copiamos la llave muy bien y le damos a donde dice `token`
     - Nos pedira autorizacion, le damos "permitir" y nos mandara a otra ventana con nuestro token, debemos guardarlo muy bien.
 3. Podemos jugar con el api de Trello mediante peticiones armadas de [Postman](https://www.postman.com/).
-4. En este caso usamos un archivio que nos dio el Mission Commander y probamos la siguiente petición:
+4. En este caso usamos el [archivio](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS/files/8585319/Trello.API.LaunchX.postman_collection.json.zip) que nos dio el Mission Commander y probamos la siguiente petición:
 
 <img src="https://user-images.githubusercontent.com/17634377/164958315-1bf2f957-ff16-4dc4-9473-7412943636fe.png" alt="metodo POST">
 
